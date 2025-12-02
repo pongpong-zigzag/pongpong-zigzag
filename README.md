@@ -8,12 +8,30 @@
 <div width="100%">
     <h1 align="center">
       I am a Blockchain + AI Engineer with 10+ years of experience.
-      
     </h1>
   </div>
 
 <div align="center">
   <br>
+</div>
+
+<div align="left">
+  
+### 🚀 What I Do
+
+I specialize in building innovative solutions at the intersection of **blockchain technology** and **artificial intelligence**. With over a decade of experience, I've worked across multiple blockchain ecosystems and AI frameworks to create cutting-edge decentralized applications, smart contracts, and intelligent agentic systems.
+
+### 💡 My Expertise
+
+- **Blockchain Development**: Smart contract development, DeFi protocols, cross-chain integrations, and blockchain infrastructure across Ethereum, Solana, Aptos, Sui, and other major networks
+- **AI & Machine Learning**: Building AI agents, LLM integrations, neural networks, and deploying ML models for production systems
+- **Full-Stack Development**: End-to-end development from smart contracts to frontend interfaces, with expertise in modern web frameworks
+- **Architecture & Design**: Designing scalable, secure, and efficient systems that leverage both blockchain's decentralization and AI's intelligence
+
+### 🎯 Current Focus
+
+I'm passionate about exploring how AI can enhance blockchain applications—from intelligent smart contracts to AI-powered DeFi protocols and autonomous agent systems that interact with blockchain networks.
+
 </div>
 
 -----
@@ -62,7 +80,7 @@
   <img src="./assets/chain/solana.png" alt="Solana" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/ethereum.png" alt="Ethereum" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/binance.png" alt="BNB Chain" width="48" height="48" style="margin: 8px;" />
-  <img src="./assets//chain/Cardano.png" alt="Cardano" width="48" height="48" sytyle="margin: 8px">
+  <img src="./assets/chain/Cardano.png" alt="Cardano" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/aptos.png" alt="Aptos" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/polkadot1.png" alt="Polkadot" width="48" height="48" style="margin: 8px;" />
   <img src="./assets/chain/cosmos.png" alt="Cosmos" width="48" height="48" style="margin: 8px;" />
