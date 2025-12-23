@@ -2,6 +2,8 @@
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
+![Failure is not an Option, it is a Result<T,E>](./assets/banner/banner.jpg "Failure is not an Option it is a Result<T,E>")
+
 
 ## About ME
 
