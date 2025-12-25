@@ -120,26 +120,6 @@
 
 ---
 
-
-
----
-
-### GitHub Stats Visualizations : Transparent
-> Generate visualizations of GitHub user and repository statistics using GitHub
-Actions.
-
-<a href="https://github.com/pongpong-zigzag/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/pongpong-zigzag/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/pongpong-zigzag/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-> NOTE: This repository is my extension of the repo [pongpong-zigzag/github-stats](https://github.com/pongpong-zigzag/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
-
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pongpong-zigzag&style=plastic&color=blueviolet" alt="Profile Views" />
 </div>
